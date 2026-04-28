@@ -1,0 +1,27 @@
+# --- C++ Compiled files ---
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# --- Build and Binaries ---
+# Ignoramos el ejecutable que generamos con g++
+ds_tests
+ds_tests.exe
+bin/
+build/
+out/
+
+# --- IDE specific files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS generated files ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
