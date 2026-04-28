@@ -1,4 +1,4 @@
-# Data Structures - C++17 Professional Repository
+# Data Structures - C++17
 
 A comprehensive C++17 library implementing 15 fundamental data structures with clean code principles, generics (templates), and manual memory management.
 
